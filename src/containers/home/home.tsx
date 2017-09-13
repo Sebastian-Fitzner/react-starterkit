@@ -12,7 +12,7 @@ class Home extends React.Component {
 
 	render() {
 		return (
-			<div className="page-wrapper">
+			<div className='page-wrapper'>
 				<h1>Home Component</h1>
 			</div>
 		);

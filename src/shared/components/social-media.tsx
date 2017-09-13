@@ -12,7 +12,7 @@ class SocialMedia extends React.Component {
 
 	render() {
 		return (
-			<div className="page-wrapper">
+			<div className='page-wrapper'>
 				<h1>Social Media</h1>
 			</div>
 		);
